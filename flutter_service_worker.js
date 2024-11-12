@@ -3,12 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "bb49ef888cb3c60e0a91bf837db77675",
-"assets/AssetManifest.bin.json": "ae5a8e1a7d7114b4b211fe53a2581923",
-"assets/AssetManifest.json": "fa0934173eddae7761aec52cd094119c",
+const RESOURCES = {"assets/AssetManifest.bin": "f1dac7d38e5145a9c8b3b7d65c9139d2",
+"assets/AssetManifest.bin.json": "29ce3033613e2f7f3f1d3b1992a46500",
+"assets/AssetManifest.json": "5854f1e9915c4df052dfb5e8397077f6",
 "assets/assets/audios/favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"assets/assets/environment_values/development.json": "676c0634a44e31928ad122af5c2457ed",
-"assets/assets/environment_values/production.json": "be01d5d27d9822b955c5dc4bce645189",
+"assets/assets/environment_values/production.json": "2e11e8fb48abd3532576ed120bab009f",
 "assets/assets/fonts/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/images/adaptive_foreground_icon.png": "ef94c72ab1380100fdf7527b1a4d0887",
 "assets/assets/images/app_launcher_icon.png": "ef94c72ab1380100fdf7527b1a4d0887",
@@ -44,7 +43,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "bb49ef888cb3c60e0a91bf837db77675
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "e74abff82f99212e1490a571a626128d",
 "/": "e74abff82f99212e1490a571a626128d",
-"main.dart.js": "2bce6d66110ffd21ccf67c05bc99c4c6",
+"main.dart.js": "a3adc1e8a8c8e7490f3ee232c6900949",
 "version.json": "516acc944cb9fa52513e9a2c32d93463"};
 // The application shell files that are downloaded before a service worker can
 // start.
